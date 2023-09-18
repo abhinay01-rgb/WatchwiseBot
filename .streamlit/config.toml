@@ -7,3 +7,5 @@ font="sans serif"
 
 [server]
 enableStaticServing = true
+db_username = "Jane"
+db_password = "12345qwerty"
